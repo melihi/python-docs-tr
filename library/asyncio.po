@@ -49,7 +49,7 @@ msgid ""
 "provide high-performance network and web-servers, database connection libraries, "
 "distributed task queues, etc."
 msgstr ""
-"asyncio yüksek performanslı ağ ve web sunucuları , veritabanı bağlantı kütüphanleri , "
+"asyncio yüksek performanslı ağ ve web sunucuları , veritabanı bağlantı kütüphaneleri , "
 "dağıtık görev kuyrukları vb. pek çok Python eş zamanlı çatısı için bir temel olarak "
 "kullanılmıştır."
 
@@ -86,7 +86,7 @@ msgstr ":ref:`kuyruklar <asyncio-queues>` aracılığı ile görevlerin dağıt�
 
 #: library/asyncio.rst:43
 msgid ":ref:`synchronize <asyncio-sync>` concurrent code;"
-msgstr "eş zamanlı kodu :ref:`senktonize et <asyncio-sync>`;"
+msgstr "eş zamanlı kodun :ref:`senkronize edilmesi <asyncio-sync>`;"
 
 #: library/asyncio.rst:45
 msgid ""
@@ -102,7 +102,7 @@ msgid ""
 "<loop_subprocess_exec>`, handling :ref:`OS signals <loop_add_signal_handler>`, etc;"
 msgstr ""
 "ref:`ağ <loop_create_server>`, :ref:`alt işlemler <loop_subprocess_exec>` "
-"çalıştırmak, :ref:`işletim sistemi sinyallerini <loop_add_signal_handler>` işlemek vb. "
+"çalıştırmak, :ref:`işletim sistemi sinyallerini <loop_add_signal_handler>` işlemek vb. işlemler "
 "için asenkron API'ler sağlayan :ref:`olay döngüleri <asyncio-event-loop>` oluşturun ve "
 "yönetin;"
 
